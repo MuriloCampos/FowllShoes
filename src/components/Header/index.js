@@ -1,0 +1,22 @@
+import React from 'react';
+import { Link } from 'react-router-dom';
+
+import { MdShoppingBasket } from 'react-icons/md';
+
+import { Container, Title, Cart } from './styles';
+
+export default function Header() {
+  return (
+    <Container>
+      <Title to="/">FowllShoes</Title>
+
+      <Cart to="/cart">
+        <div>
+          <strong>Meu carrinho</strong>
+          <span>3 itens</span>
+        </div>
+        <MdShoppingBasket size={36} color="#FFF" />
+      </Cart>
+    </Container>
+  );
+}
