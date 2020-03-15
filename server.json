@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 8
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tenis de caminhada leve confortavel",
+      "price": 200,
+      "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-exact-feminino/79/D22-2018-879/D22-2018-879_detalhe1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tenis Nike Revolution 5",
+      "price": 189.99,
+      "image": "https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/26/HZM-1731-026/HZM-1731-026_zoom2.jpg?ts=1571078789&ims=326x"
+    },
+    {
+      "id": 3,
+      "title": "Tenis Mizuno Wave Eagle 2",
+      "price": 149.99,
+      "image": "https://static.netshoes.com.br/produtos/tenis-mizuno-wave-eagle-2-masculino/20/D16-4893-120/D16-4893-120_zoom2.jpg?ts=1570451717&ims=326x"
+    },
+    {
+      "id": 4,
+      "title": "Tenis Adidas Falcon",
+      "price": 199.99,
+      "image": "https://static.netshoes.com.br/produtos/tenis-adidas-falcon-masculino/26/COL-4399-026/COL-4399-026_zoom2.jpg?ts=1583890350&ims=326x"
+    },
+    {
+      "id": 5,
+      "title": "Tenis de Olympikus Attract",
+      "price": 99.99,
+      "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract/20/D22-1787-120/D22-1787-120_zoom2.jpg?ts=1584062346&ims=326x"
+    },
+    {
+      "id": 6,
+      "title": "Tenis Everlast Kromus",
+      "price": 99.99,
+      "image": "https://static.netshoes.com.br/produtos/tenis-everlast-kromus-masculino/20/AXB-1745-120/AXB-1745-120_zoom2.jpg?ts=1567596369&ims=326x"
+    }
+  ]
+}
